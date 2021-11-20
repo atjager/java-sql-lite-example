@@ -1,0 +1,52 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/user/.m2/repository/org/xerial/sqlite-jdbc/3.34.0/sqlite-jdbc-3.34.0.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/user/Documents/NetBeansProjects/probaProjekt/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/user/Documents/NetBeansProjects/probaProjekt/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'probaProjekt 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/user/Documents/NetBeansProjects/probaProjekt/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'probaProjekt 1.0-SNAPSHOT API'
+com.mycompany.probaprojekt
+'C:/Users/user/Documents/NetBeansProjects/probaProjekt/src/main/java/com/mycompany/probaprojekt/BrandDto.java'
+'C:/Users/user/Documents/NetBeansProjects/probaProjekt/src/main/java/com/mycompany/probaprojekt/BrandService.java'
+'C:/Users/user/Documents/NetBeansProjects/probaProjekt/src/main/java/com/mycompany/probaprojekt/Main.java'
+'C:/Users/user/Documents/NetBeansProjects/probaProjekt/src/main/java/com/mycompany/probaprojekt/MobileDto.java'
+C:\Users\user\.m2\repository\org\xerial\sqlite-jdbc\3.34.0\sqlite-jdbc-3.34.0.jar = 1637261635500
+C:\Users\user\Documents\NetBeansProjects\probaProjekt\src\main\java = 1637342328405
+C:\Users\user\Documents\NetBeansProjects\probaProjekt\target\site\apidocs\allclasses-index.html = 1637355907685
+C:\Users\user\Documents\NetBeansProjects\probaProjekt\target\site\apidocs\allpackages-index.html = 1637355907687
+C:\Users\user\Documents\NetBeansProjects\probaProjekt\target\site\apidocs\element-list = 1637355907626
+C:\Users\user\Documents\NetBeansProjects\probaProjekt\target\site\apidocs\help-doc.html = 1637355907712
+C:\Users\user\Documents\NetBeansProjects\probaProjekt\target\site\apidocs\index-all.html = 1637355907705
+C:\Users\user\Documents\NetBeansProjects\probaProjekt\target\site\apidocs\index.html = 1637355907708
+C:\Users\user\Documents\NetBeansProjects\probaProjekt\target\site\apidocs\jquery-ui.overrides.css = 1637355907745
+C:\Users\user\Documents\NetBeansProjects\probaProjekt\target\site\apidocs\member-search-index.js = 1637355907692
+C:\Users\user\Documents\NetBeansProjects\probaProjekt\target\site\apidocs\module-search-index.js = 1637355907689
+C:\Users\user\Documents\NetBeansProjects\probaProjekt\target\site\apidocs\overview-tree.html = 1637355907673
+C:\Users\user\Documents\NetBeansProjects\probaProjekt\target\site\apidocs\package-search-index.js = 1637355907690
+C:\Users\user\Documents\NetBeansProjects\probaProjekt\target\site\apidocs\script.js = 1637355907717
+C:\Users\user\Documents\NetBeansProjects\probaProjekt\target\site\apidocs\search.js = 1637355907719
+C:\Users\user\Documents\NetBeansProjects\probaProjekt\target\site\apidocs\stylesheet.css = 1637355907715
+C:\Users\user\Documents\NetBeansProjects\probaProjekt\target\site\apidocs\tag-search-index.js = 1637355907693
+C:\Users\user\Documents\NetBeansProjects\probaProjekt\target\site\apidocs\type-search-index.js = 1637355907691
